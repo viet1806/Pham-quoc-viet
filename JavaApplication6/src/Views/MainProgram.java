@@ -11,7 +11,7 @@ import java.util.Scanner;
 
 /**
  *
- * @author Toanne
+ * @author vietk
  */
 public class MainProgram {
     public static int menu(){
