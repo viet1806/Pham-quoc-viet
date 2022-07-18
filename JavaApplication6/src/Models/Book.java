@@ -9,7 +9,7 @@ import java.io.Serializable;
 
 /**
  *
- * @author Toanne
+ * @author vietk
  */
 public class Book implements Serializable{
     private String BookID;
